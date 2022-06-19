@@ -1,13 +1,13 @@
 {
-  "name": "项目名称",
-  "description": "项目名称",
+  "name": "XO-001",
+  "description": "XO-001",
   "keywords": [
     "VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
